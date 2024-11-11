@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyBubJvsc2gag1qa9R2gl9gxrqsgV8VvvaM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1082658255195</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.riverpodSample</string>
+	<key>PROJECT_ID</key>
+	<string>employee-dir-99d8a</string>
+	<key>STORAGE_BUCKET</key>
+	<string>employee-dir-99d8a.firebasestorage.app</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1082658255195:ios:816ca3fcd925001a3a2a7e</string>
+</dict>
+</plist>
